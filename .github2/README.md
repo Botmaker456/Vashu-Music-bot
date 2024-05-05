@@ -4,8 +4,8 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXMUSIC&theme=flag-india)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXMUSIC/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+[![GIF](https://github.com/Vashu2456/Vashu/tree/Master2)](https://github.com/Vashu2456/Vashu/tree/Master2)
+   [![𝐌𝐑.𝐃𝐀𝐗𝐗](github.com/Vashu2456/Vashu/tree/Master2)](github.com/Vashu2456/Vashu/tree/Master2)
 
 
 
