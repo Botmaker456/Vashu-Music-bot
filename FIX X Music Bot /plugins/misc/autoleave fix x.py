@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 
 import config
 from FIXXMUSIC import app
-from FIXXMUSIC.core.call import DAXX, autoend
+from FIXXMUSIC.core.call import FIXX, autoend
 from FIXXMUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 
