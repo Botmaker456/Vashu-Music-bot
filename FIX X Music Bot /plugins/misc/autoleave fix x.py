@@ -64,7 +64,7 @@ async def auto_end():
                     continue
                 autoend[chat_id] = {}
                 try:
-                    await DAXX.stop_stream(chat_id)
+                    await FIXX.stop_stream(chat_id)
                 except:
                     continue
                 try:
