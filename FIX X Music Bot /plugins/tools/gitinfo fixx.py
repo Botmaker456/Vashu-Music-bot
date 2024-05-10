@@ -1,7 +1,7 @@
 import asyncio, os, time, aiohttp
 import aiohttp
 from pyrogram import filters
-from fixxhub import fixxhub as papafixx
+from fixxhub import fixxhub as papavashu
 from FIXXMUSIC import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
