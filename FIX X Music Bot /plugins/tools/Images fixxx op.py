@@ -24,7 +24,7 @@ async def convert(
     documents = []
 
     for message in reply_messages:
-        if not message.document or not message.document.mime_type.startswith("image"):
+        if not message.document or not message.document.mime_type.startswith("vimage"):
             return await m.edit("Not a valid image document, ABORTED!")
 
         if message.document.file_size > 5000000:
@@ -37,7 +37,7 @@ async def convert(
         img.save(img_path, "JPEG", quality=100)
 
     pdf = BytesIO(img2pdf.convert(documents))
-    pdf.name = "DAXX.pdf"
+    pdf.name = "fiXX.pdf"
 
     if len(main_message.command) >= 2:
         names = main_message.text.split(None, 1)[1]
