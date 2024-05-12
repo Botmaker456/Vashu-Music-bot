@@ -52,7 +52,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 REPO = getenv(
-    "VASHU_REPO",
+    "UPSTREAM_REPO",
     "https://github.com/Vashu2456/Vashu-Music-bot,
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
